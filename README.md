@@ -15,6 +15,10 @@ submit a Contributor License Agreement ("Agreement" or "CLA") that has been
 signed by each Contributor, indicating agreement to the license terms for all
 GFE projects.
 
+NOTE: Some repositories are covered under a single license.
+`pFUnit_demos` and `yaFyaml` are both covered by the `pFUnit` license.
+And `gFTL-shared` is covered by the `gFTL` license.
+
 ### Individuals
 
 Individuals that contribute to GEOS-ESM projects must complete, sign, and [email](mailto:GSFC-SoftwareRelease@mail.nasa.gov)
