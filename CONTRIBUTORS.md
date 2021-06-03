@@ -8,15 +8,19 @@
 
 :heavy_check_mark: Sean Santos
 
+:heavy_check_mark: Peter Hill
+
 ## pFUnit_demos
 
 ## yaFyaml
 
-## gFTL
+## gFTL (and gFTL-shared)
 
-## gFTL-shared
+:heavy_check_mark: Peter Hill
 
 ## fArgParse
+
+:heavy_check_mark: Peter Hill
 
 ## pFlogger
 
