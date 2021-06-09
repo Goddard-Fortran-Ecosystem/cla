@@ -10,6 +10,16 @@
 
 :heavy_check_mark: Peter Hill
 
+:heavy_check_mark: Kurt Sansom
+
+:heavy_check_mark: Conrad Patton
+
+:heavy_check_mark: Jeffrey Rodio
+
+:heavy_check_mark: Russel Quick
+
+:heavy_check_mark: Anna Jackson
+
 ## pFUnit_demos
 
 ## yaFyaml
