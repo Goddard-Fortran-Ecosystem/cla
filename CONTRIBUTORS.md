@@ -8,7 +8,7 @@
 
 :heavy_check_mark: Sean Santos
 
-:heavy_check_mark: Peter Hill
+:heavy_check_mark: Peter Hill GSC-15,137-1
 
 :heavy_check_mark: Kurt Sansom
 
@@ -28,13 +28,15 @@
 
 ## gFTL (and gFTL-shared)
 
-:heavy_check_mark: Peter Hill
+:heavy_check_mark: Peter Hill GSC-17,742-1
 
 :heavy_check_mark: Maarten Braakhekke GSC-17,742-1
 
 ## fArgParse
 
-:heavy_check_mark: Peter Hill
+:heavy_check_mark: Peter Hill GSC-18,159-1
+
+:heavy_check_mark: Maarten Braakhekke GSC-18,159-1
 
 ## pFlogger
 
