@@ -22,8 +22,6 @@
 
 :heavy_check_mark: Maarten Braakhekke
 
-:heavy_check_mark: Vincent Harrand
-
 ## pFUnit_demos
 
 ## yaFyaml
