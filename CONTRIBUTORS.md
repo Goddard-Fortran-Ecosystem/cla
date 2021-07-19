@@ -22,6 +22,8 @@
 
 :heavy_check_mark: Maarten Braakhekke GSC-15,137-1
 
+:heavy_check_mark: Vincent Harrand GSC-15,137-1
+
 ## pFUnit_demos
 
 ## yaFyaml
