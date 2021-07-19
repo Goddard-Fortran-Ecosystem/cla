@@ -4,11 +4,11 @@
 
 :x: - CLA not yet signed
 
-## pFUnit
+## pFUnit GSC-15,137-1
 
-:heavy_check_mark: Sean Santos GSC-15,137-1
+:heavy_check_mark: Sean Santos 
 
-:heavy_check_mark: Peter Hill GSC-15,137-1
+:heavy_check_mark: Peter Hill
 
 :heavy_check_mark: Kurt Sansom
 
@@ -20,25 +20,25 @@
 
 :heavy_check_mark: Anna Jackson
 
-:heavy_check_mark: Maarten Braakhekke GSC-15,137-1
+:heavy_check_mark: Maarten Braakhekke
 
-:heavy_check_mark: Vincent Harrand GSC-15,137-1
+:heavy_check_mark: Vincent Harrand
 
 ## pFUnit_demos
 
 ## yaFyaml
 
-## gFTL (and gFTL-shared)
+## gFTL (and gFTL-shared)  GSC-17,742-1
 
-:heavy_check_mark: Peter Hill GSC-17,742-1
+:heavy_check_mark: Peter Hill
 
-:heavy_check_mark: Maarten Braakhekke GSC-17,742-1
+:heavy_check_mark: Maarten Braakhekke
 
-## fArgParse
+## fArgParse  GSC-18,159-1
 
-:heavy_check_mark: Peter Hill GSC-18,159-1
+:heavy_check_mark: Peter Hill
 
-:heavy_check_mark: Maarten Braakhekke GSC-18,159-1
+:heavy_check_mark: Maarten Braakhekke
 
 ## pFlogger
 
